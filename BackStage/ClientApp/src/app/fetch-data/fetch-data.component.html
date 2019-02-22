@@ -1,0 +1,12 @@
+<h1>Calculator</h1>
+
+<p>This component reaches out to the Calculator actor.</p>
+<form>
+  <label> Equation: <input type="text" class="form-control" [formControl]="equation1"></label>
+  <label> Equation: <input type="text" class="form-control" [formControl]="equation2"></label>
+  <button type="button" class="btn btn-success" (click)="getResults()">Calculate</button>
+  <br />
+  <div *ngIf="results!=''">
+    Results: {{results}}
+  </div>
+</form>
