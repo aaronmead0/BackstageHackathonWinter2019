@@ -32,5 +32,6 @@ namespace Calculator.Interfaces
         /// <param name="count"></param>
         /// <returns></returns>
         Task<int> AddIntegersAsync(int one, int two, CancellationToken cancellationToken);
+        Task<int> SubtractIntegersAsync(int one, int two, CancellationToken cancellationToken);
     }
 }

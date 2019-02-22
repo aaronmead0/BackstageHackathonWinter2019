@@ -17,3 +17,23 @@ c:\users\t.loveless\documents\visual studio 2017\Projects\ServiceFabricApp1\Calc
 c:\users\t.loveless\documents\visual studio 2017\Projects\ServiceFabricApp1\Calculator.Interfaces\obj\x64\Debug\Calculator.Interfaces.dll
 c:\users\t.loveless\documents\visual studio 2017\Projects\ServiceFabricApp1\Calculator.Interfaces\obj\x64\Debug\Calculator.Interfaces.pdb
 c:\users\t.loveless\documents\visual studio 2017\Projects\ServiceFabricApp1\Calculator.Interfaces\obj\x64\Debug\Calculator.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\helen.pickron\Downloads\BackstageHackathonWinter2019\Calculator.Interfaces\bin\x64\Debug\Calculator.Interfaces.dll
+C:\Users\helen.pickron\Downloads\BackstageHackathonWinter2019\Calculator.Interfaces\bin\x64\Debug\Calculator.Interfaces.pdb
+C:\Users\helen.pickron\Downloads\BackstageHackathonWinter2019\Calculator.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Actors.dll
+C:\Users\helen.pickron\Downloads\BackstageHackathonWinter2019\Calculator.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Data.dll
+C:\Users\helen.pickron\Downloads\BackstageHackathonWinter2019\Calculator.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+C:\Users\helen.pickron\Downloads\BackstageHackathonWinter2019\Calculator.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Internal.dll
+C:\Users\helen.pickron\Downloads\BackstageHackathonWinter2019\Calculator.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\Users\helen.pickron\Downloads\BackstageHackathonWinter2019\Calculator.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Services.dll
+C:\Users\helen.pickron\Downloads\BackstageHackathonWinter2019\Calculator.Interfaces\bin\x64\Debug\ServiceFabricServiceModel.dll
+C:\Users\helen.pickron\Downloads\BackstageHackathonWinter2019\Calculator.Interfaces\bin\x64\Debug\System.Fabric.dll
+C:\Users\helen.pickron\Downloads\BackstageHackathonWinter2019\Calculator.Interfaces\bin\x64\Debug\System.Fabric.Strings.dll
+C:\Users\helen.pickron\Downloads\BackstageHackathonWinter2019\Calculator.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Actors.xml
+C:\Users\helen.pickron\Downloads\BackstageHackathonWinter2019\Calculator.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Data.xml
+C:\Users\helen.pickron\Downloads\BackstageHackathonWinter2019\Calculator.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+C:\Users\helen.pickron\Downloads\BackstageHackathonWinter2019\Calculator.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Services.xml
+C:\Users\helen.pickron\Downloads\BackstageHackathonWinter2019\Calculator.Interfaces\bin\x64\Debug\System.Fabric.xml
+C:\Users\helen.pickron\Downloads\BackstageHackathonWinter2019\Calculator.Interfaces\obj\x64\Debug\Calculator.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\helen.pickron\Downloads\BackstageHackathonWinter2019\Calculator.Interfaces\obj\x64\Debug\Calculator.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\helen.pickron\Downloads\BackstageHackathonWinter2019\Calculator.Interfaces\obj\x64\Debug\Calculator.Interfaces.dll
+C:\Users\helen.pickron\Downloads\BackstageHackathonWinter2019\Calculator.Interfaces\obj\x64\Debug\Calculator.Interfaces.pdb

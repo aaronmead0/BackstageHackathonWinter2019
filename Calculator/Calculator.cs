@@ -79,5 +79,16 @@ namespace Calculator
         {
             return one + two;
         }
+        public Task<int> SubtractIntegersAsync(int one, int two, CancellationToken cancellationToken)
+        {
+            int sum = Subtract(one, two);
+            return Task.FromResult(sum);
+
+        }
+
+        private static int Subtract(int one, int two)
+        {
+            return one - two;
+        }
     }
 }
