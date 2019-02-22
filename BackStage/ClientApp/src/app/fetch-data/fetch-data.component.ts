@@ -24,7 +24,7 @@ export class FetchDataComponent {
     var a = this.equation1.value;
     var b = this.equation2.value;
     console.warn(this.baseUrl + 'api/Fabric/Calculator?a=' + a + '&b=' + b);
-    this.http.get<string>(this.baseUrl + 'api/Fabric/Calculator?a=' + a + '&b=' + b, { responseType: 'text' }).subscribe(result => {
+    this.http.get(this.baseUrl + 'api/Fabric/Calculator?a=' + a + '&b=' + b, { responseType: 'text' }).subscribe(result => {
       this.results = result;
     }, error => console.error(error));
     console.warn(this.results);
