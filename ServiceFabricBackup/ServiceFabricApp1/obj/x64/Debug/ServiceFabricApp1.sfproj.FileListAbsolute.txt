@@ -1,0 +1,1 @@
+c:\users\t.loveless\documents\visual studio 2017\Projects\ServiceFabricApp1\ServiceFabricApp1\obj\x64\Debug\ServiceFabricApp1.sfprojResolveAssemblyReference.cache

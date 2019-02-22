@@ -1,1 +1,2 @@
 c:\users\t.loveless\documents\visual studio 2017\Projects\ServiceFabricApp1\ServiceFabricApp1\obj\x64\Debug\ServiceFabricApp1.sfprojResolveAssemblyReference.cache
+C:\Users\helen.pickron\Downloads\BackstageHackathonWinter2019\ServiceFabricApp1\obj\x64\Debug\ServiceFabricApp1.sfproj.CoreCompileInputs.cache

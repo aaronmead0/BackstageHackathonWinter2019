@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PublishProfile xmlns="http://schemas.microsoft.com/2015/05/fabrictools">
+  <!-- ClusterConnectionParameters allows you to specify the PowerShell parameters to use when connecting to the Service Fabric cluster.
+       Valid parameters are any that are accepted by the Connect-ServiceFabricCluster cmdlet.
+       
+       For a local cluster, you would typically not use any parameters.
+         For example: <ClusterConnectionParameters />
+  -->
+  <ClusterConnectionParameters ConnectionEndpoint="avacluser1.westus.cloudapp.azure.com:19000" X509Credential="true" ServerCertThumbprint="5753B83F168ECE2ED07B88959DC8F68274AC07CB" FindType="FindByThumbprint" FindValue="5753B83F168ECE2ED07B88959DC8F68274AC07CB" StoreLocation="LocalMachine" StoreName="My" />
+  <CopyPackageParameters CompressPackage="true" CopyPackageTimeoutSec="900"/>
+  <ApplicationParameterFile Path="..\ApplicationParameters\Cloud.xml" />
+</PublishProfile>
